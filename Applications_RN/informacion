@@ -1,0 +1,37 @@
+ RN es un framework creado por facebook para crear app multiplataforma
+ podes crear apps para android y para ios al mismo tiempo
+ Componentes, nativos, de ios, de android
+ componente es una parte consiza de la app por ejemplo el header es un componente, la barra de busqueda, etc
+ puedes crear componentes reutilizables en toda la app y en cada pantalla lo llamas
+ desventaja: podes crear demaciados componentes escribiendo codigo muy redundante
+ bueno (hacer toda la barra un componente) mala practica (hacer que queda boton de la barra sea un compoente)
+  
+Rn trabaja con JSX y en ES6
+con NC6 puedes escribir contantes  
+variables que se ejecutan en un bloque (let) 
+uso de clases (class Component{})
+y funciones (function get(){console.log('hello')});
+	o const getOne = {} => console.log('hello');
+	
+JSX es una extencion de JS creada por face
+nos ayuda a escribir un componente JSX:
+	const ComponentView = <h1>hello</h1>
+estas escribiendo html y js al mismo tiempo
+ entonces cuando pongas <ComponentView/> te llamaria lo de arriba
+
+
+read bridge o puente react es donde te puedes conectar con los modulos nativos
+los bueno que teine RN
+Rapido avanze: ya que tus necesidades de desrroyo necesitas ver velozmente lo que haces
+escribir el mismo codigo una vez sin importar si es android o ios
+experiencia en JS y desarrollo web
+se pueden utilizar citio web ya utilizados
+
+hot reloading: se actualiza cada vez que haces un cambio
+el inspectar de una pagina web pero para nuestro celular
+tmb tiene un stat trace en la aplicacion para determinar errores de la aplicacion
+instagram, facebook, skype, discord, pinterest y uber utilizan o utilizaban RN
+como herramientas podes utilizar android studio
+snack, desarrollo web en vivo y funciona con RN si es que no tienes un telefono
+
+

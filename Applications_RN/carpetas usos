@@ -1,0 +1,39 @@
+test son test unitarios en jest 
+	
+android y ios son dependensias necesarias para compilar la aplicacion a cada uno
+#modulos nativos de cada uno
+
+node_modules todo lo intalado en el proyecto que no es general (virtualenv)
+#librerias y dependencias necesarias para el proyecto
+
+eslintrc.js  para que detecte los errores sin tener que estar ejecutandolo 
+
+.flowconfig
+
+.gitignor ayuda a no subir archibos a la nuve, como configuracione personal de la compu
+
+prettierrc para formatiar los archivos
+
+babel es un compilador de JS y te deja comprimirlo a diferente version de JS y presets a que queres compilarlo
+
+index es el entry point de tu aplicacion osea de donde arranca
+desplegar nuestra app.js
+
+configuracion del servidor
+
+
+
+
+
+comando
+
+npx react-native init FirstP  crear carpeta de la aplicacion de RN
+
+npx react-native run-android para meter la aplicacion al celular
+
+adb devices
+
+
+(si no crea node_modulos)
+npm init
+npx yarn install
